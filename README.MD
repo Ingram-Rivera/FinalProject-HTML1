@@ -11,4 +11,4 @@ This GitHub repository includes all the files for "Final Project HTML 1"
 - image/screenshot.png
 
 # Website Screenshot
-![Website Screenshot](/image/website_screenshot.png)
+![Website Screenshot](/image/screenshot.png)
